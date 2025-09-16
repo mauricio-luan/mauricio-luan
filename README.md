@@ -1,7 +1,5 @@
 <h2 align="left">Sobre mim</h2>
 
----
-
 ### Tecnologias Principais
 
 - **Front-end:** `Vue.js`, `JavaScript (ES6+)`, `HTML5`, `CSS3`
