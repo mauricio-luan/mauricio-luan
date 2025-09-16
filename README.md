@@ -1,5 +1,20 @@
 <h2 align="left">Sobre mim</h2>
 
+---
+
+### Tecnologias Principais
+
+- **Front-end:** `Vue.js`, `JavaScript (ES6+)`, `HTML5`, `CSS3`
+- **Back-end & Automação:** `Node`, `Python`, `Pandas`
+
+### Atualmente Aprendendo e Explorando
+
+- **Java** e o ecossistema **Spring**
+- Princípios de **Programação Orientada a Objetos (POO)**
+- **Arquitetura de Software** e **Design Patterns**
+
+---
+
 ###
 
 <div align="center">
