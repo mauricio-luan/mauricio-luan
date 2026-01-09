@@ -13,6 +13,6 @@
 
   <h2 align="center">Metricas</h2>
 
-  <img src="github-metrics.svg" width="400">
+  <!-- <img src="github-metrics.svg" width="400"> -->
 
 </div>
