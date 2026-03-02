@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   </div>
 
-  <!-- <h2 align="center">Metricas</h2> -->
+  <h2 align="center">Metricas</h2>
 
-  <!-- <img src="github-metrics.svg" width="400"> -->
+  <img src="github-metrics.svg" width="400">
 
 </div>
