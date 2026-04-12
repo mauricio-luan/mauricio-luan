@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2>Principais tecnologias</h2>
+  <h2>main stack</h2>
 
   <div align="center">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
